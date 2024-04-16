@@ -16,12 +16,12 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              {" "}
+             
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad a quae
               sed voluptatibus veniam soluta? Ut suscipit debitis aperiam iusto?
             </p>
             <p>
-              {" "}
+            
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Perferendis totam itaque accusamus in inventore ipsum?
             </p>
